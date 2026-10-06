@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.vscode/
+*.log
+
+# Personal/biometric project files
+*.wav
+*.npy
+owner.jpg
